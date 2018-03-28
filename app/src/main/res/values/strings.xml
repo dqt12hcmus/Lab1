@@ -1,0 +1,9 @@
+<resources>
+    <!--Tên các string dùng trong bài và giá trị của chúng-->
+    <string name="app_name">HelloWorld</string>
+    <string name="btnDangNhap">Đăng Nhập</string>
+    <string name="txtTaiKhoan">Tài Khoản</string>
+    <string name="txtMatKhau">Mật Khẩu</string>
+    <string name="txtHello">Hello</string>
+
+</resources>
